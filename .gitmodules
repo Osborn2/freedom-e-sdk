@@ -40,3 +40,6 @@
 [submodule "software/example-coreip-welcome"]
 	path = software/example-coreip-welcome
 	url = https://github.com/sifive/example-coreip-welcome
+[submodule "software/coremark"]
+	path = software/coremark
+	url = git@github.com:/sifive/coremark
